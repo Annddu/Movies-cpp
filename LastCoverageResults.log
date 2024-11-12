@@ -1,0 +1,21 @@
+[2024-04-15 01:02:21] [info] Start Program:
+Path:"D:\sem 2\OOP\laboratoare\a6-7\a6-7\x64\Debug\a6-7.exe"
+Arguments:
+Working directory: "D:\sem 2\OOP\laboratoare\a6-7\a6-7\"
+Modules: Selected: D:\sem 2\OOP\laboratoare\a6-7\a6-7\x64\Debug\a6-7.exe Excluded: 
+Sources: Selected: D:\sem 2\OOP\laboratoare\a6-7\a6-7 Excluded: WatchList.cpp Console.cpp Tests.cpp 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\tigan\AppData\Local\Temp\4igwn5ej.s0k 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-04-15 01:02:22] [info] Module: D:\sem 2\OOP\laboratoare\a6-7\a6-7\x64\Debug\a6-7.exe is selected because it matches selected pattern: D:\sem 2\OOP\laboratoare\a6-7\a6-7\x64\Debug\a6-7.exe
+[2024-04-15 01:02:22] [info] ----------------------------------------------------
+[2024-04-15 01:02:22] [info] Coverage binary generated in file: C:\Users\tigan\AppData\Local\Temp\4igwn5ej.s0k
+[2024-04-15 01:02:22] [info] ----------------------------------------------------
